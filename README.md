@@ -46,7 +46,8 @@ Merhabalar, Siyasi Parti Sistemi v1 beta adını verdiğim belki v1 bile olmayan
 
 - İlk önce resmi fatura basma. Göstermelik fatura hazırla.
 - Ödeme işleminin 1/2 yapılmadan işe başlama.
-- Siyasi parti ve dernekçilere bulaşma müşterin olarak nakit ödemeyi görmeden kabul etme.
+- Siyasi parti ve dernekçilere bulaşma.
+- Müşterin olarak nakit ödemeyi görmeden kabul etme.
 - Kendini tasarım konusunda dahada geliştir.
 
   
