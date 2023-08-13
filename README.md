@@ -32,7 +32,7 @@ Merhabalar, Siyasi Parti Sistemi v1 beta adını verdiğim belki v1 bile olmayan
 
 - siteadi.com/sgpnl ile yönetici paneline girilir. Yeni admin eklemesi siteadi.com/sgpnl/register.php ile yapılıyor. 
 - Veritabanı dosyası SQL adlı klasörün içerisindedir.
-- 
+  
 ## Ekran Görüntüleri
 
 ![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/5gmnk79.png)
