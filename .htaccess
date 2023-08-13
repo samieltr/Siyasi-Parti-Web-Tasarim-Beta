@@ -1,0 +1,15 @@
+RewriteRule ".well-known/acme-challenge" - [L]
+
+
+RewriteOptions inherit
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^www\.mbgp\.org.tr$
+RewriteRule ^(.*)$ https://mbgp.org.tr/$1 [L,R=301]
+ErrorDocument 404 https://mbgp.org.tr/sgpnl/404.html
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# “ea-php73” paketini varsayılan “PHP” programlama dili olarak ayarlayın.
+<IfModule mime_module>
+  AddHandler application/x-httpd-ea-php73 .php .php7 .phtml
+</IfModule>
+# php -- END cPanel-generated handler, do not edit

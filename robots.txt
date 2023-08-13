@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: 
+
+Sitemap: https://mbgp.org.tr/sitemap2.rss
+Sitemap: https://mbgp.org.tr/sitemap2.txt
